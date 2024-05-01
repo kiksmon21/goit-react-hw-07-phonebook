@@ -1,0 +1,16 @@
+.filter__input {
+  width: 200px;
+  border: 1px solid #146C94;
+  border-radius: 10px;
+  padding: 10px 15px;
+  background-color: #F6F1F1;
+  color: #146C94;
+}
+  .filter__input:focus {
+    outline: 1px solid #146C94;
+  }
+
+.filter{
+  display: flex;
+  justify-content: center;
+}

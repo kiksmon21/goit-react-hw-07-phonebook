@@ -1,0 +1,8 @@
+.contacts__list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 20px 0;
+}
